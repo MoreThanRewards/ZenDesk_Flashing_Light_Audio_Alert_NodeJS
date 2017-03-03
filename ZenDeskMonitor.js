@@ -1,8 +1,8 @@
 /**
  * AUTHOR: @morethanrewards  | morethanrewards.com | sexyhackers.com   Please follow us cuz we post new shirt designs every week!
  *
- * @TLDR When ZenDesk tickets don't get responded to in a certain amount of time lights then this script turns on up to 10 
- * electrical devices making lights and buzzers flash and go beep beep. When the lights flash and alarms go, it reminds 
+ * @TLDR When ZenDesk tickets don't get responded to in a certain amount of time this script turns on up to 10 
+ * electrical devices ON/OFF making lights and buzzers flash and go beep beep. When the lights flash and alarms go off, it reminds 
  * your customer service people that they need to be more awesome.
  *
  * WE KNOW OUR SPELLING, GRAMMER SUCK, WE SHOULD NOT TYPE IN ALL CAPS, AND OUR EXCESSIVE USE OF UNDERSCORES ARE ANNOYING 
