@@ -1,16 +1,12 @@
-# ZenDesk_Flashing_Light_Audio_Alert_NodeJS
-
 AUTHOR: http://sexyhackers.com   
-Please follow us cuz we post new shirt designs every week!
+Please follow us because we post new shirt designs every week!
 
-@TLDR   When ZenDesk tickets don't get responded to in a certain amount of time lights then this script turns on up to 10 electrical devices making lights and buzzers flash and go beep beep.   This causes the customer service people to be really annoyed and respond to tickets faster.  
+@TLDR   When ZenDesk tickets don't get responded to in a certain amount of time lights then this script turns on up to 10 electrical devices making lights and buzzers flash and go beep beep.   When the lights flash and alarms go, it reminds your customer service people that they need to be more awesome. 
 
-We did this for fun so, if you like it and want to help us out spread the word about our t-shirts website http://sexyhackers.com so we can eat TacoBell! 
+We did this for fun so, if you like it and want to help us out spread the word about our t-shirts website http://sexyhackers.com so we can eat TacoBell!   If your feeling really generious then buy some of our shirts and posters we made.   
 
-If you like any of our designs buy some of our swag! 
-
-We use these lights :
-https://www.amazon.com/gp/product/B019I13EQI/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1
-
-We use this IP controled electrial switch (which you'll need): 
+We use this IP controlled electrical switch (which you'll need): 
 https://www.amazon.com/gp/product/B00EZWD146/ref=oh_aui_detailpage_o01_s00?ie=UTF8&psc=1
+
+This is the lights we use in our office if you want to copy our style. 
+https://www.amazon.com/gp/product/B019I13EQI/ref=oh_aui_detailpage_o06_s00?ie=UTF8&psc=1
