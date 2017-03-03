@@ -1,7 +1,7 @@
 AUTHOR: http://sexyhackers.com   
 Please follow us @sexyhackers on Twitter because we post new shirt designs every week!
 
-@TLDR   When ZenDesk tickets don't get responded to in a certain amount of time lights then this script turns on up to 10 electrical devices making lights and buzzers flash and go beep beep.   When the lights flash and alarms go, it reminds your customer service people that they need to be more awesome. 
+@TLDR   When ZenDesk tickets don't get responded to in a certain amount of time this script turns on up to 10 electrical devices on/off making lights and buzzers flash and go beep beep.   When the lights flash and alarms go off, it reminds your customer service people that they need to be more awesome. 
 
 We did this for fun so, if you like it and want to help us out spread the word about our t-shirts website http://sexyhackers.com so we can eat TacoBell!   If your feeling really generious then buy some of our shirts and posters we made.   
 
