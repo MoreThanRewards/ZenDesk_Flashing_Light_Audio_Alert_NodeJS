@@ -1,5 +1,5 @@
 AUTHOR: http://sexyhackers.com   
-Please follow us because we post new shirt designs every week!
+Please follow us @sexyhackers on Twitter because we post new shirt designs every week!
 
 @TLDR   When ZenDesk tickets don't get responded to in a certain amount of time lights then this script turns on up to 10 electrical devices making lights and buzzers flash and go beep beep.   When the lights flash and alarms go, it reminds your customer service people that they need to be more awesome. 
 
