@@ -59,8 +59,8 @@
  * -------------------------------------------------------------------
  *    1 - Download the ZenDeskMonitor.js into a directory on the computer
  *    2 - Download and install NodeJS here - https://nodejs.org
- *    3 - Open a command prompt, navigate to the directory where you put the file at then install node refer by typing
- *        npm install refer
+ *    3 - Open a command prompt, navigate to the directory where you put the file at then install node request by typing
+ *        npm install request
  *    4 - Buy one of these power switches, plug it in and give it a static IP
  *        http://www.digital-loggers.com/lpc.html
  *    5 - Plug a light in the power outlet 1 on the switch like this  https://www.amazon.com/Rhode-Island-Novelty-Police-Beacon/dp/B00TGBD9RA
